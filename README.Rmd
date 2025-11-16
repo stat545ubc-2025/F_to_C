@@ -12,7 +12,6 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
-
 # FtoC
 
 <!-- badges: start -->

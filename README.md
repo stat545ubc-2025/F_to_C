@@ -16,11 +16,6 @@ You can install the development version of FtoC like this:
 Package installation can be done by calling
 `devtools::install_github("erezbuyukyilmaz/FtoC")`
 
-``` r
-# install.packages("pak")
-pak::pak("stat545ubc-2025/F_to_C")
-```
-
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
