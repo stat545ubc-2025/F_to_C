@@ -1,6 +1,6 @@
 Package: FtoC
 Title: Easy conversion from Fahrenheit to Celcius
-Version: 0.1.0
+Version: 1.0.0
 Authors@R: 
     person("Erez", "Buyukyilmaz", , "erezbuyukyilmaz@gmail.com", role = c("aut", "cre"))
 Description: Converts individual or multiple measurements of temperature in Fahrenheit and converts it to Celcius.

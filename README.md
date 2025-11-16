@@ -7,14 +7,15 @@
 
 <!-- badges: end -->
 
-The goal of FtoC is to allow you to use the function F_to_C.
+The goal of FtoC is to allow you to use the function F_to_C, which
+converts Fahrenheit temperature measurements to Celcius.
 
 ## Installation
 
 You can install the development version of FtoC like this:
 
 Package installation can be done by calling
-`devtools::install_github("erezbuyukyilmaz/FtoC")`
+`devtools::install_github("stat545ubc-2025/F_to_C")`
 
 ## Example
 
